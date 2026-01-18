@@ -3,7 +3,7 @@
   </p> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-NeutraIity&label=Snowflakes&color=#96c4c2&style=plastic&abbreviated=true&base=3200">
+  <img src="https://komarev.com/ghpvc/?username=your-github-NeutraIity&label=Snowflakes&color=7eafb6&style=plastic&abbreviated=true&base=3200">
 </p>
 
 <p align="center">
