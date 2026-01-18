@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href= "https://github.com/ringmasterr"> 𝐹𝓁𝓊𝓍 </a>
+  <a href= "https://github.com/inequities"> 𝐹𝓁𝓊𝓍 </a>
   <br>
 
 <p align="center">
