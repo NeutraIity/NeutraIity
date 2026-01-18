@@ -15,11 +15,11 @@
  </p> 
 
   <p align="center">
-Yeah, you can call me your
+Yeah, You Can Call Me Your
   </p>
 
   <p align="center">
-  <code style="color : 498f8c">Lover Boy</code>
+  <code style="color : 498f8c">Lover Boy
   </p>
  
   <p align="center">
