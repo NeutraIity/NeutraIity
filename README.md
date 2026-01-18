@@ -27,5 +27,5 @@ Yeah, You Can Call Me Your
  </p> 
 
   <p align="center">
-  <img width="500" height="300" src="https://64.media.tumblr.com/6d7aebddb06599a3caa3a935f8ca2a91/c368a42b231f4436-c4/s500x750/d6a75744f823455e7ec310ff31a8972588f3f29d.pnj">
+  <img width="300" height="700" src="https://64.media.tumblr.com/6d7aebddb06599a3caa3a935f8ca2a91/c368a42b231f4436-c4/s500x750/d6a75744f823455e7ec310ff31a8972588f3f29d.pnj">
 </p>
