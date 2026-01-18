@@ -19,7 +19,7 @@ Yeah, You Can Call Me Your
   </p>
 
   <p align="center">
-  $${\color{498f8c}Lover Boy{}}$$
+  $${\color{blue}Lover Boy{}}$$
   </p>
  
   <p align="center">
