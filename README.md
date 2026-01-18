@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href= "https://github.com/ringmasterr">   $${\color{white}Flux{}}$$ </a>
+  <a href= "https://github.com/ringmasterr"> Flux </a>
   <br>
 
 <p align="center">
