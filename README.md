@@ -7,34 +7,25 @@
 </p>
 
 <p align="center">
-  <a href= "https://rentry.co/43ow244k"> Rentry </a> ౨ৎ
+  <a href= "https://github.com/ringmasterr"> Flux </a> ౨ৎ
   <br>
 
 <p align="center">
-˚₊‧꒰ა ✦ ໒꒱ ‧₊˚
- </p> 
-
-<p align="center">
-  <b> My Links <br>
-  <a href= "https://azresash.atabook.org"> Atabook </a> .☘︎ ݁˖
-  <a href= "https://malfunct1on.straw.page"> Strawpage </a>
-  <br>
-  <p align="center">
-  <a href= "https://en.pronouns.page/@Fallingsouls"> Pronoun Page </a> ⭑.ᐟ
-  <a href= "https://guns.lol/azresash"> guns.lol </a> 
-  <br>
-
-  <p align="center">
-HI XINNY / KAY :D
+.ೃ࿐ᶻ 𝗓 𐰁
  </p> 
 
   <p align="center">
-  <a href= "https://github.com/ringmasterr"> the subspace to my scythe </a> ๑⋆˙⟡
+Yeah, you can call me your
+  </p>
 
   <p align="center">
-ੈ✩‧₊˚˖ ᡣ𐭩 ⊹ ࣪ ౨ৎ˚₊˙⋆✮
+  <code style="color : 498f8c">Lover Boy</code>
+  </p>
+ 
+  <p align="center">
++*:ꔫ:*﹤
  </p> 
 
   <p align="center">
-  <img width="400" height="700" src="https://i.pinimg.com/736x/f3/13/ce/f313ce6141aaf5f1d5504e31fe341b14.jpg">
+  <img width="400" height="700" src="https://i.pinimg.com/736x/19/b0/7d/19b07d7b6f3fcacdd4e9e01fbcedef35.jpg">
 </p>
