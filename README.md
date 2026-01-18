@@ -15,7 +15,7 @@
  </p> 
 
   <p align="center">
-Yeah, You Can Call Me Your
+$${\color{white}Yeah, You Can Call Me{}}$$
   </p>
 
   <p align="center">
