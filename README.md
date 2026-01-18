@@ -27,5 +27,5 @@ Yeah, You Can Call Me Your
  </p> 
 
   <p align="center">
-  <img width="400" height="700" src="https://i.pinimg.com/736x/19/b0/7d/19b07d7b6f3fcacdd4e9e01fbcedef35.jpg">
+  <img width="500" height="300" src="https://i.pinimg.com/736x/19/b0/7d/19b07d7b6f3fcacdd4e9e01fbcedef35.jpg">
 </p>
